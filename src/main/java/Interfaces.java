@@ -21,7 +21,7 @@ class Kit {
 }
 
 public class Interfaces {
-    public static void main(String[] args) {;
+    public static void main(String[] args) {
         Kit k = new Kit();
         WritingTool penTool = new Pen();
         WritingTool pencilTool = new Pencil();
