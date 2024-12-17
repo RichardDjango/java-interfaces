@@ -1,3 +1,7 @@
+//Total Abstraction
+//Multiple Inheritance
+//Loose-Coupling
+
 
 interface WritingTool{
     String Erase = "eraser";  //public static final
