@@ -1,6 +1,18 @@
-//Total Abstraction
-//Multiple Inheritance
-//Loose-Coupling
+//Total Abstraction -
+// Abstraction is the critical concept of Object-Oriented programming techniques.
+// An interface only stores the method signature and not the method definition.
+// Method Signatures make an Interface achieve complete Abstraction by hiding the method implementation from the user.
+
+
+//Multiple Inheritance -
+//Without Interface, the process of multiple inheritances is impossible as the conventional way of inheriting multiple
+// parent classes results in profound ambiguity. This type of ambiguity is known as the Diamond problem. Interface resolves this issue.
+
+
+//Loose-Coupling -
+//The term Coupling describes the dependency of one class for the other. So, while using an interface,
+// we define the method separately and the signature separately. This way, all the methods,
+// and classes are entirely independent and archives Loose Coupling.
 
 
 interface WritingTool{
